@@ -1,0 +1,90 @@
+.ufc{
+    background-color: rgb(0, 0, 0);
+}
+.conor{
+ width: 100%; 
+ background-color: #3498db; 
+ color: white; 
+ padding: 20px; 
+ margin: 0;  
+}
+    .uyt{
+        margin-top:35px;
+        margin-left: 20px;
+        margin-bottom: 15px;
+        
+    } 
+    h3.bg-dark {
+        width: 100%;      
+        padding: 1rem;    
+        background-color: #343a40; 
+        color: white;     
+        text-align: center; 
+    }
+  
+
+    
+    .jj{
+        width: 40%; 
+        height: 750px;
+
+    }
+    .jean{
+         width: 100%;      
+        padding: 1rem;    
+        background-color: #000000; 
+        color: white;     
+        text-align: center; 
+        margin-bottom:10px;
+
+    }
+    .je{
+        width: 100%;      
+       padding: 1rem;    
+       background-color:#0c0079; 
+       color: white;     
+       text-align: center; 
+       margin-bottom:10px;
+
+   }
+    .jea{
+        width: 100%;      
+       padding: 1rem;    
+       background-color: #025411; 
+       color: white;     
+       text-align: center; 
+       margin-bottom:10px;
+
+   }
+    .mig{
+width: 90%;
+padding:2%;
+height: auto;
+margin-top: 10px;
+margin-right: 5px;
+margin-left: 9px;
+
+    }
+.like{
+background-color: white;
+width: 90%;
+height:40%;
+margin-top: 30px;
+margin-left: 10px;    
+}
+.dale{
+    width: 100%;      
+    padding: 6px;    
+    background-color: #c40202; 
+    color: white; 
+        
+    
+    margin-bottom:5px;   
+}
+.bones{
+font-size: 20px;    
+}
+a{
+    margin-top: 20%;
+    color: rgb(202, 15, 15);
+}
